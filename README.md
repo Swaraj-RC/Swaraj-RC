@@ -14,5 +14,5 @@ Currently reverse-engineering my sleep schedule and occasionally hacking Wi-Fi..
 - 💬 Ask me about: Wireshark, Burp Suite, weird bugs, or random Linux tweaks  
 - 📫 How to reach me: swarajrc118@gmail.com or [LinkedIn](https://www.linkedin.com/in/swaraj-r-c-a79249238)  
 - 😄 Pronouns: He / Him  
-- ⚡ Fun fact: I don’t rage quit — I rm -rf and move on.
+- ⚡ Fun fact: I don’t rage quit — I ```rm -rf``` and move on.
 
